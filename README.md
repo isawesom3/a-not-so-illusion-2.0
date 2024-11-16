@@ -3,7 +3,7 @@
 notice:  
 worked really hard on this hope u enjoy(there are exactly 4,100 lines of the CODE!!!!!!!!!) AND its only python TURTLE
 
-
+### all made from basic python TURTLE
 
 ### what it does!
 what it does is basicly makes a triangle OVER and OVER and OVER and OVER and OVER angain in every different color i could think of in anot-so illusion-y way BUT! (ya knew there was gonna be a butt) this triangle loop illusion thingamabob-y thing thingy is something i worked REALLY REALLY REALLY hard on so enjoy using it.
