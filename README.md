@@ -11,6 +11,11 @@ what it does is basicly makes a triangle OVER and OVER and OVER and OVER and OVE
 so.. to get it theres no link or download thing or any website or ANYTHING you can see it on, so i guess you can just go ahead and copy the code in my .py file and paste it into some python turtle IDE or IDLE (still dont know whatits called)
 
 
+## a picture and stuff
+see it now!(⤵)  
+![Screenshot 2024-11-16 8 42 16 AM](https://github.com/user-attachments/assets/3f06b9df-f14d-400a-bca4-dfa29173a8ba)
+
+it'lle be more SATISFYING if you try the code.
 
 #### bonus section 
 here are some of the colors i used   
