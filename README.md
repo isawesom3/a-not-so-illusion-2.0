@@ -20,3 +20,6 @@ it'lle be more SATISFYING if you try the code.
 #### bonus section 
 here are some of the colors i used   
 (Black Grey Red Blue Orange White Brown Pink Yellow Green Purple Maroon Turquoise Cyan Navy blue Gold Tomato Teal Lime Cyan Wheat Salmon Olive Aqua Violet Chocolate Azure Sİlver Bronze Dark blue Navy and etc…)
+
+
+GO CHECK OUT MY FIRST PYTHON TURTLE ILLUSION ON MY PROFILE!!!!!!!!
